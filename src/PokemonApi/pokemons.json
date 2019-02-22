@@ -1,0 +1,1 @@
+[{"Name":"squirtle","Level":0,"Type":"WATER","StrongAgainst":["GROUND","ROCK","FIRE"],"WeakAgainst":["WATER","GRASS","DRAGON"],"ResistantTo":["BUG","STEEL","WATER"],"VulnerableTo":["GRASS","ELECTRIC"],"Statistics":{"Attack":300,"Deffense":0,"Speed":200,"SpecialAttack":200,"HealthPoint":0},"Skills":["Torrent"]}]
